@@ -2,7 +2,14 @@
 
 Play MTG against bots or online players using your own deck, on your own desk
 
-TODO: 
+## Libraries Used:
+### Rust
+ - `tch`
+ - `json`
+### C
+ - `openpnp-capture`
+
+## TODO: 
  - [ ] Camera-based Card Recognition
  - [ ] Text Recognition
  - [ ] Card-Processing Text Engine

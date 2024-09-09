@@ -5,4 +5,5 @@ edition = "2021"
 
 [dependencies]
 json = "0.12.4"
+opencv = "0.92.3"
 tch = "0.17.0"

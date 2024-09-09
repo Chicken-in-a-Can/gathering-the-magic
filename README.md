@@ -1,13 +1,12 @@
 # gathering-the-magic
 
-Play MTG against bots or online players using your own deck, on your own desk
+Play MTG against bots or online players using your own deck, on your own desk  
+Written in Rust(my beloved)  
 
 ## Libraries Used:
-### Rust
  - `tch`
  - `json`
-### C
- - `openpnp-capture`
+ - `opencv`
 
 ## TODO: 
  - [ ] Camera-based Card Recognition

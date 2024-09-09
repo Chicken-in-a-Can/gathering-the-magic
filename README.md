@@ -6,6 +6,7 @@ TODO:
  - [ ] Camera-based Card Recognition
  - [ ] Text Recognition
  - [ ] Card-Processing Text Engine
+ - [ ] Probably internal scripting engine since MTG has so much stuff
  - [ ] Determine Cards from database, taken image, and text
  - [ ] MTG Game Engine
  - [ ] Actual Graphics

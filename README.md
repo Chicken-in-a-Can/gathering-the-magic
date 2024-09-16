@@ -7,6 +7,7 @@ Written in Rust(my beloved)
  - `tch`
  - `json`
  - `opencv`
+ - `image`
 
 ## TODO: 
  - [ ] Camera-based Card Recognition
